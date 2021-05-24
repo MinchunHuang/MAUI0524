@@ -1,0 +1,162 @@
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\bin\Debug\MAUI.exe
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\bin\Debug\MAUI.pdb
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\bin\Debug\MAUI.xml
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\obj\x86\Debug\MAUI.exe
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\obj\x86\Debug\MAUI.xml
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\obj\x86\Debug\MAUI.pdb
+C:\Users\minchunhuang\Desktop\Lecroy\MAUI\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+U:\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+U:\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.exe
+U:\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.xml
+U:\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.pdb
+U:\VB\2010\MAUI\MAUI\bin\Debug\MAUI.exe
+U:\VB\2010\MAUI\MAUI\bin\Debug\MAUI.pdb
+U:\VB\2010\MAUI\MAUI\bin\Debug\MAUI.xml
+U:\VB\2010\MAUI\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+U:\VB\2010\MAUI\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+U:\RD lab\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+U:\RD lab\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.exe
+U:\RD lab\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.xml
+U:\RD lab\VB\2010\MAUI\MAUI\obj\x86\Debug\MAUI.pdb
+U:\RD lab\VB\2010\MAUI-V2\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+U:\RD lab\VB\2010\MAUI-V2\MAUI\obj\x86\Debug\MAUI.exe
+U:\RD lab\VB\2010\MAUI-V2\MAUI\obj\x86\Debug\MAUI.xml
+U:\RD lab\VB\2010\MAUI-V2\MAUI\obj\x86\Debug\MAUI.pdb
+U:\RD lab\VB\2010\MAUI-V2\MAUI\bin\Debug\MAUI.exe
+U:\RD lab\VB\2010\MAUI-V2\MAUI\bin\Debug\MAUI.pdb
+U:\RD lab\VB\2010\MAUI-V2\MAUI\bin\Debug\MAUI.xml
+U:\RD lab\VB\2010\MAUI-V2\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+U:\RD lab\VB\2010\MAUI-V2\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\RD lab\VB\2010\MAUI-V2\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\obj\x86\Debug\MAUI.exe
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\obj\x86\Debug\MAUI.xml
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\obj\x86\Debug\MAUI.pdb
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\bin\Debug\MAUI.exe
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\bin\Debug\MAUI.pdb
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\bin\Debug\MAUI.xml
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+U:\RD lab\VB\2010\MAUI-V2 - 複製\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+U:\RD lab\VB\2010\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+U:\RD lab\VB\2010\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.exe
+U:\RD lab\VB\2010\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.xml
+U:\RD lab\VB\2010\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.pdb
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.exe
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.xml
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.exe
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.xml
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\bin\Debug\MAUI.exe
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\bin\Debug\MAUI.pdb
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\bin\Debug\MAUI.xml
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\RDLab\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\bin\Debug\MAUI.exe
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\bin\Debug\MAUI.pdb
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\bin\Debug\MAUI.xml
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\auo\rd\Public\Min\MAUI-V3_Noovershoot\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+\\auo\rd\Public\Min\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+\\auo\rd\Public\Min\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.exe
+\\auo\rd\Public\Min\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.xml
+\\auo\rd\Public\Min\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+D:\RDLab\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.exe
+D:\RDLab\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.xml
+D:\RDLab\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V4_Userdefined\MAUI\bin\Debug\MAUI.exe
+D:\RDLab\MAUI-V4_Userdefined\MAUI\bin\Debug\MAUI.pdb
+D:\RDLab\MAUI-V4_Userdefined\MAUI\bin\Debug\MAUI.xml
+D:\RDLab\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+D:\RDLab\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\RDLab\MAUI-V4_Userdefined\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+D:\RDLab\MAUI-V5_countchange\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+D:\RDLab\MAUI-V5_countchange\MAUI\obj\x86\Debug\MAUI.exe
+D:\RDLab\MAUI-V5_countchange\MAUI\obj\x86\Debug\MAUI.xml
+D:\RDLab\MAUI-V5_countchange\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V5_countchange\MAUI\bin\Debug\MAUI.exe
+D:\RDLab\MAUI-V5_countchange\MAUI\bin\Debug\MAUI.pdb
+D:\RDLab\MAUI-V5_countchange\MAUI\bin\Debug\MAUI.xml
+D:\RDLab\MAUI-V5_countchange\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+D:\RDLab\MAUI-V5_countchange\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\RDLab\MAUI-V5_countchange\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+D:\RDLab\MAUI-V5.1_largerange\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+D:\RDLab\MAUI-V5.1_largerange\MAUI\obj\x86\Debug\MAUI.exe
+D:\RDLab\MAUI-V5.1_largerange\MAUI\obj\x86\Debug\MAUI.xml
+D:\RDLab\MAUI-V5.1_largerange\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V5.1_largerange\MAUI\bin\Debug\MAUI.exe
+D:\RDLab\MAUI-V5.1_largerange\MAUI\bin\Debug\MAUI.pdb
+D:\RDLab\MAUI-V5.1_largerange\MAUI\bin\Debug\MAUI.xml
+D:\RDLab\MAUI-V5.1_largerange\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+D:\RDLab\MAUI-V5.1_largerange\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\RDLab\MAUI-V5.1_largerange\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+D:\RDLab\MAUI-V6_+-10%\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+D:\RDLab\MAUI-V6_+-10%\MAUI\obj\x86\Debug\MAUI.exe
+D:\RDLab\MAUI-V6_+-10%\MAUI\obj\x86\Debug\MAUI.xml
+D:\RDLab\MAUI-V6_+-10%\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V6_+-10%\MAUI\bin\Debug\MAUI.exe
+D:\RDLab\MAUI-V6_+-10%\MAUI\bin\Debug\MAUI.pdb
+D:\RDLab\MAUI-V6_+-10%\MAUI\bin\Debug\MAUI.xml
+D:\RDLab\MAUI-V6_+-10%\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+D:\RDLab\MAUI-V6_+-10%\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\RDLab\MAUI-V6_+-10%\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.exe
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.xml
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.exe
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.pdb
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.xml
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\RDLab\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.exe
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.xml
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.pdb
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.exe
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.pdb
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.xml
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\auo\rd\Public\Min\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.exe
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.xml
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.pdb
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.exe
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.pdb
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\bin\Debug\MAUI.xml
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\minchunhuang\Desktop\MAUI-V5.1.1_+-10%\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+D:\RDLab\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+D:\RDLab\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.exe
+D:\RDLab\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.xml
+D:\RDLab\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.pdb
+D:\RDLab\MAUI-V6_Speedup\MAUI\bin\Debug\MAUI.exe
+D:\RDLab\MAUI-V6_Speedup\MAUI\bin\Debug\MAUI.pdb
+D:\RDLab\MAUI-V6_Speedup\MAUI\bin\Debug\MAUI.xml
+D:\RDLab\MAUI-V6_Speedup\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+D:\RDLab\MAUI-V6_Speedup\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\RDLab\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.vbproj.ResolveComReference.cache
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.exe
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.xml
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.pdb
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\bin\Debug\MAUI.exe
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\bin\Debug\MAUI.pdb
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\bin\Debug\MAUI.xml
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\obj\x86\Debug\WindowsApplication1.FormMain.resources
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\obj\x86\Debug\WindowsApplication1.Resources.resources
+\\auo\rd\Public\Min\MAUI-V6_Speedup\MAUI\obj\x86\Debug\MAUI.vbproj.GenerateResource.Cache
